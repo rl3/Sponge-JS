@@ -16,4 +16,4 @@ Sponge-JS delivers a webservice for
 
 References: AgroHyd - Welternährung und Wasserressourcen: eine agrarhydrologische Perspektive
 
-For further information see http://rl3.github.io/Sponge-JS
+For further information see rl3.github.io/Sponge-JS
