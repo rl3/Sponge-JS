@@ -13,4 +13,4 @@ Sponge-JS delivers a webservice for
 
 
 
-For further information see http://rl3.github.io/Sponge-JS
+For further information see http://rl3.github.io/Sponge-JS/
